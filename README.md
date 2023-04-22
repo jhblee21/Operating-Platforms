@@ -32,3 +32,4 @@ One part I would like to revise is the Evaluation section, particularly the Deve
 I interpreted the user needs by performing static testing on the work products such as the project guidelines and specifications, and the user stories. It is critical to consider the user needs, as the needs often dictate the requirements of the software. 
 
 ### How did I approach designing software? What techniques or strategies would I use in the future to analyze and design a similar software application?
+The level of effort in software design varies from project to project, depending on factors such as the complexity of the software and the client/stakeholder involvement. In general, my approach to software design aligns closely with the software requirements to ensure that all specified functionalities are validated and verified.
