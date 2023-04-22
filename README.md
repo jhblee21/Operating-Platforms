@@ -23,9 +23,12 @@ In developing this design document, I demonstrated proficiency in the following:
 - Describing the security solutions for the recommended operating platform
 
 ### What about the process of working through a design document did I find helpful when developing the code?
+Analyzing the UML diagram for the proposed system was helpful in developing the code. 
 
 ### If I could choose one part of my work on these documents to revise, what would I pick? How would I improve it?
+One part I would like to revise is the Evaluation section, particularly the Development Tools section. I would like to conduct more research on the available tools and languages for each operating platforms, which will lend itself to my ability to evaluate, compare, and contrast each of the operating platforms.
 
 ### How did I interpret the user’s needs and implement them into my software design? Why is it so important to consider the user’s needs when designing?
+I interpreted the user needs by performing static testing on the work products such as the project guidelines and specifications, and the user stories. It is critical to consider the user needs, as the needs often dictate the requirements of the software. 
 
 ### How did I approach designing software? What techniques or strategies would I use in the future to analyze and design a similar software application?
